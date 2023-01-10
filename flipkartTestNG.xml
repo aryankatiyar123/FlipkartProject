@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  <test name="Test_1">
+    <classes>
+      <class name="flipkart.testcases.Advertise"/>
+    </classes>
+  </test>
+
+  <test name="Test_2">
+    <classes>
+      <class name="flipkart.testcases.Appliances"/>
+    </classes>
+  </test>
+
+  <!--test name="Test_3">
+    <classes>
+      <class name="flipkart.testcases.BecomeSeller"/>
+    </classes>
+  </test-->
+
+  <test name="Test_4">
+    <classes>
+      <class name="flipkart.testcases.CancelAndReturns"/>
+    </classes>
+  </test>
+
+  <test name="Test_5">
+    <classes>
+      <class name="flipkart.testcases.Careers"/>
+    </classes>
+  </test>
+
+  <test name="Test_6">
+    <classes>
+      <class name="flipkart.testcases.Cart"/>
+    </classes>
+  </test>
+
+  <!--test name="Test_7">
+    <classes>
+      <class name="flipkart.testcases.CorporateInfo"/>
+    </classes>
+  </test-->
+
+  <test name="Test_8">
+    <classes>
+      <class name="flipkart.testcases.CreateAccount"/>
+	  <class name="flipkart.testcases.FlipkartLogin"/>
+    </classes>
+  </test>
+
+  <test name="Test_9">
+    <classes>
+      <class name="flipkart.testcases.Deal"/>
+    </classes>
+  </test>
+
+  <test name="Test_10">
+    <classes>
+      <class name="flipkart.testcases.ExplorePlus"/>
+    </classes>
+  </test>
+
+  <test name="Test_11">
+    <classes>
+      <class name="flipkart.testcases.Fashion"/>
+    </classes>
+  </test>
+
+  <!--test name="Test_12">
+    <classes>
+      <class name="flipkart.testcases.FlipkartStories"/>
+    </classes>
+  </test>
+
+  <test name="Test_13">
+    <classes>
+      <class name="flipkart.testcases.GiftCards"/>
+    </classes>
+  </test-->
+
+  <test name="Test_14">
+    <classes>
+      <class name="flipkart.testcases.Grocery"/>
+    </classes>
+  </test>
+
+  <!--test name="Test_15">
+    <classes>
+      <class name="flipkart.testcases.HelpCenter"/>
+    </classes>
+  </test-->
+
+  <test name="Test_16">
+    <classes>
+      <class name="flipkart.testcases.Mobiles"/>
+    </classes>
+  </test>
+
+  <!--test name="Test_17">
+    <classes>
+      <class name="flipkart.testcases.Press"/>
+    </classes>
+  </test-->
+
+  <test name="Test_18">
+    <classes>
+      <class name="flipkart.testcases.SearchProduct"/>
+    </classes>
+  </test>
+
+  <test name="Test_19">
+    <classes>
+      <class name="flipkart.testcases.Shipping"/>
+    </classes>
+  </test>
+
+  <test name="Test_20">
+    <classes>
+      <class name="flipkart.testcases.TopOffers"/>
+    </classes>
+  </test>
+
+  <!--test name="Test_21">
+    <classes>
+      <class name="flipkart.testcases.Travel"/>
+    </classes>
+  </test-->
+
+</suite> <!-- Suite -->

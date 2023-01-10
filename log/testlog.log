@@ -1,0 +1,492 @@
+2023-01-06 17:13:39,092 - flipkart.pages.LoginAndCreateAccountPage -INFO - Click on Create Account option in website
+2023-01-06 17:13:39,204 - flipkart.pages.LoginAndCreateAccountPage -INFO - Sends the mobile in website
+2023-01-06 17:13:39,397 - flipkart.pages.LoginAndCreateAccountPage -INFO - Click on continue button in website
+2023-01-06 17:13:39,550 - flipkart.pages.BasePage -INFO - Test newAccount pass.
+2023-01-06 17:13:40,367 - flipkart.pages.LoginAndCreateAccountPage -INFO - Sends the mobile in website
+2023-01-06 17:13:40,530 - flipkart.pages.LoginAndCreateAccountPage -INFO - Click on Request OTP option in website
+2023-01-06 17:13:40,605 - flipkart.pages.BasePage -INFO - Test login pass.
+2023-01-07 17:02:04,792 - flipkart.pages.LoginAndCreateAccountPage -INFO - Sends the mobile in website
+2023-01-07 17:02:04,996 - flipkart.pages.LoginAndCreateAccountPage -INFO - Click on Request OTP option in website
+2023-01-07 17:02:05,175 - flipkart.pages.BasePage -INFO - Test login pass.
+2023-01-07 17:03:39,775 - flipkart.pages.BasePage -ERROR - Test login failed.
+2023-01-07 17:03:39,796 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-07 17:07:07,797 - flipkart.pages.BasePage -ERROR - Test login failed.
+2023-01-07 17:07:07,811 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-07 17:14:48,527 - flipkart.pages.LoginAndCreateAccountPage -INFO - Click on Create Account option in website
+2023-01-07 17:14:49,092 - flipkart.pages.BasePage -ERROR - Test newAccount failed.
+2023-01-07 17:14:49,092 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-07 17:14:50,135 - flipkart.pages.BasePage -ERROR - Test login failed.
+2023-01-07 17:14:50,135 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-08 13:46:16,816 - flipkart.pages.LoginAndCreateAccountPage -INFO - Click on Create Account option in website
+2023-01-08 13:46:16,913 - flipkart.pages.LoginAndCreateAccountPage -INFO - Sends the mobile in website
+2023-01-08 13:46:17,106 - flipkart.pages.LoginAndCreateAccountPage -INFO - Click on continue button in website
+2023-01-08 13:46:17,273 - flipkart.pages.BasePage -INFO - Test newAccount pass.
+2023-01-08 13:46:18,036 - flipkart.pages.LoginAndCreateAccountPage -INFO - Sends the mobile in website
+2023-01-08 13:46:18,215 - flipkart.pages.LoginAndCreateAccountPage -INFO - Click on Request OTP option in website
+2023-01-08 13:46:18,289 - flipkart.pages.BasePage -INFO - Test login pass.
+2023-01-08 22:01:44,656 - flipkart.pages.BasePage -ERROR - Test advertise failed.
+2023-01-08 22:01:44,663 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-08 22:02:30,601 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-08 22:02:30,606 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-08 22:03:57,793 - flipkart.pages.BasePage -ERROR - Test seller failed.
+2023-01-08 22:03:57,799 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-08 22:09:35,120 - flipkart.pages.ExplorePlusPage -INFO - Click on my coin option
+2023-01-08 22:09:35,240 - flipkart.pages.BasePage -ERROR - Test explorePlus failed.
+2023-01-08 22:09:35,241 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:28:16,127 - flipkart.pages.AdvertisePage -INFO - Click on Advertise button
+2023-01-09 14:28:16,205 - flipkart.pages.AdvertisePage -INFO - Brand name send to website
+2023-01-09 14:28:17,624 - flipkart.pages.AdvertisePage -INFO - Click on firstBrand in website
+2023-01-09 14:28:17,744 - flipkart.pages.BasePage -INFO - Test advertise pass.
+2023-01-09 14:28:20,700 - flipkart.pages.AppliancesPage -INFO - Click on Appliances button
+2023-01-09 14:28:22,881 - flipkart.pages.AppliancesPage -INFO - TV option got clicked
+2023-01-09 14:29:03,064 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-09 14:29:03,065 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:29:34,914 - flipkart.pages.BasePage -ERROR - Test seller failed.
+2023-01-09 14:29:34,915 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:29:37,734 - flipkart.pages.CancelAndReturnsPage -INFO - Click on CancelAndReturns button
+2023-01-09 14:29:57,883 - flipkart.pages.BasePage -ERROR - Test cancel failed.
+2023-01-09 14:29:57,884 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:29:59,526 - flipkart.pages.CareersPage -INFO - Click on Careers button
+2023-01-09 14:30:06,526 - flipkart.pages.CareersPage -INFO - Serach text send to the website
+2023-01-09 14:30:06,587 - flipkart.pages.CareersPage -INFO - Search option got clicked
+2023-01-09 14:30:08,636 - flipkart.pages.BasePage -ERROR - Test careers failed.
+2023-01-09 14:30:08,636 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:30:30,175 - flipkart.pages.BasePage -ERROR - Test cart failed.
+2023-01-09 14:30:30,176 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:30:32,282 - flipkart.pages.CorporateInfoPage -INFO - Click on CorporateInfo button
+2023-01-09 14:30:32,397 - flipkart.pages.CorporateInfoPage -INFO - Click on AnnualReturn pdf in website
+2023-01-09 14:30:32,479 - flipkart.pages.BasePage -ERROR - Test corporate failed.
+2023-01-09 14:30:32,479 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:30:54,154 - flipkart.pages.BasePage -ERROR - Test newAccount failed.
+2023-01-09 14:30:54,155 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:31:14,307 - flipkart.pages.BasePage -ERROR - Test login failed.
+2023-01-09 14:31:14,307 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:31:19,966 - flipkart.pages.DealPage -INFO - Click on clear all button
+2023-01-09 14:31:20,074 - flipkart.pages.BasePage -ERROR - Test deal failed.
+2023-01-09 14:31:20,074 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:31:41,977 - flipkart.pages.BasePage -ERROR - Test explorePlus failed.
+2023-01-09 14:31:41,977 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:32:03,662 - flipkart.pages.BasePage -ERROR - Test fashion failed.
+2023-01-09 14:32:03,662 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:32:47,340 - flipkart.pages.FlipkartStoriesPage -INFO - Click on FlipkartStories button
+2023-01-09 14:32:48,947 - flipkart.pages.BasePage -ERROR - Test flipkartStories failed.
+2023-01-09 14:32:48,947 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:32:53,804 - flipkart.pages.GiftCardsPage -INFO - Click on GiftCards button
+2023-01-09 14:32:57,060 - flipkart.pages.GiftCardsPage -INFO - wallet option got clicked
+2023-01-09 14:33:01,861 - flipkart.pages.GiftCardsPage -INFO - Click on buy button
+2023-01-09 14:33:01,889 - flipkart.pages.BasePage -INFO - Test giftCards pass.
+2023-01-09 14:33:04,977 - flipkart.pages.GroceryPage -INFO - Sends the pinCode in website
+2023-01-09 14:33:25,095 - flipkart.pages.BasePage -ERROR - Test grocery failed.
+2023-01-09 14:33:25,096 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:33:27,650 - flipkart.pages.HelpCenterPage -INFO - Click on HelpCenter button
+2023-01-09 14:33:28,182 - flipkart.pages.HelpCenterPage -INFO - Track order button got clicked
+2023-01-09 14:33:28,298 - flipkart.pages.HelpCenterPage -INFO - Click on postal address button
+2023-01-09 14:33:28,363 - flipkart.pages.BasePage -INFO - Test helpCenter pass.
+2023-01-09 14:33:31,099 - flipkart.pages.MobilesPage -INFO - Shop now button clicked
+2023-01-09 14:33:32,553 - flipkart.pages.BasePage -ERROR - Test mobiles failed.
+2023-01-09 14:33:32,553 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:33:37,757 - flipkart.pages.PressPage -INFO - Click on Press button
+2023-01-09 14:33:57,911 - flipkart.pages.BasePage -ERROR - Test press failed.
+2023-01-09 14:33:57,912 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:33:59,490 - flipkart.pages.SearchProductPage -INFO - Click on search button
+2023-01-09 14:34:00,555 - flipkart.pages.SearchProductPage -INFO - Click on first product in website
+2023-01-09 14:34:00,652 - flipkart.pages.BasePage -ERROR - Test searchProduct failed.
+2023-01-09 14:34:00,652 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:34:05,498 - flipkart.pages.ShippingPage -INFO - Click on Shipping button
+2023-01-09 14:34:06,502 - flipkart.pages.ShippingPage -INFO - Click on flights button
+2023-01-09 14:34:06,593 - flipkart.pages.BasePage -ERROR - Test shipp failed.
+2023-01-09 14:34:06,593 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:34:08,998 - flipkart.pages.TopOffersPage -INFO - Click on top offers
+2023-01-09 14:34:49,145 - flipkart.pages.BasePage -ERROR - Test topOffers failed.
+2023-01-09 14:34:49,145 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:34:51,885 - flipkart.pages.TravelPage -INFO - Click on travel
+2023-01-09 14:34:52,489 - flipkart.pages.TravelPage -INFO - Top deal option clicked
+2023-01-09 14:34:52,983 - flipkart.pages.TravelPage -INFO - Click on use code in website
+2023-01-09 14:34:53,072 - flipkart.pages.BasePage -ERROR - Test travel failed.
+2023-01-09 14:34:53,072 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:55:17,129 - flipkart.pages.AdvertisePage -INFO - Click on Advertise button
+2023-01-09 14:55:17,222 - flipkart.pages.AdvertisePage -INFO - Brand name send to website
+2023-01-09 14:55:18,551 - flipkart.pages.AdvertisePage -INFO - Click on firstBrand in website
+2023-01-09 14:55:18,684 - flipkart.pages.BasePage -INFO - Test advertise pass.
+2023-01-09 14:55:40,876 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-09 14:55:40,877 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:56:02,389 - flipkart.pages.BasePage -ERROR - Test seller failed.
+2023-01-09 14:56:02,389 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:56:24,398 - flipkart.pages.BasePage -ERROR - Test cancel failed.
+2023-01-09 14:56:24,399 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:56:45,953 - flipkart.pages.BasePage -ERROR - Test careers failed.
+2023-01-09 14:56:45,953 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:57:07,746 - flipkart.pages.BasePage -ERROR - Test cart failed.
+2023-01-09 14:57:07,746 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:57:29,531 - flipkart.pages.BasePage -ERROR - Test corporate failed.
+2023-01-09 14:57:29,531 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:57:50,960 - flipkart.pages.BasePage -ERROR - Test newAccount failed.
+2023-01-09 14:57:50,960 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:58:11,116 - flipkart.pages.BasePage -ERROR - Test login failed.
+2023-01-09 14:58:11,116 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:58:32,844 - flipkart.pages.BasePage -ERROR - Test deal failed.
+2023-01-09 14:58:32,844 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:58:54,210 - flipkart.pages.BasePage -ERROR - Test explorePlus failed.
+2023-01-09 14:58:54,210 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:59:15,894 - flipkart.pages.BasePage -ERROR - Test fashion failed.
+2023-01-09 14:59:15,894 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:59:37,462 - flipkart.pages.BasePage -ERROR - Test flipkartStories failed.
+2023-01-09 14:59:37,462 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 14:59:58,838 - flipkart.pages.BasePage -ERROR - Test giftCards failed.
+2023-01-09 14:59:58,838 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:00:20,233 - flipkart.pages.BasePage -ERROR - Test grocery failed.
+2023-01-09 15:00:20,233 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:00:41,724 - flipkart.pages.BasePage -ERROR - Test helpCenter failed.
+2023-01-09 15:00:41,724 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:01:03,105 - flipkart.pages.BasePage -ERROR - Test mobiles failed.
+2023-01-09 15:01:03,105 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:01:24,570 - flipkart.pages.BasePage -ERROR - Test press failed.
+2023-01-09 15:01:24,570 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:01:46,017 - flipkart.pages.BasePage -ERROR - Test searchProduct failed.
+2023-01-09 15:01:46,017 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:02:07,571 - flipkart.pages.BasePage -ERROR - Test shipp failed.
+2023-01-09 15:02:07,571 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:02:29,296 - flipkart.pages.BasePage -ERROR - Test topOffers failed.
+2023-01-09 15:02:29,297 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:02:50,861 - flipkart.pages.BasePage -ERROR - Test travel failed.
+2023-01-09 15:02:50,861 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:08:54,909 - flipkart.pages.AdvertisePage -INFO - Click on Advertise button
+2023-01-09 15:08:55,024 - flipkart.pages.AdvertisePage -INFO - Brand name send to website
+2023-01-09 15:08:56,466 - flipkart.pages.AdvertisePage -INFO - Click on firstBrand in website
+2023-01-09 15:08:56,645 - flipkart.pages.BasePage -INFO - Test advertise pass.
+2023-01-09 15:09:18,896 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-09 15:09:18,896 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:09:40,792 - flipkart.pages.BasePage -ERROR - Test seller failed.
+2023-01-09 15:09:40,792 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:11:56,052 - flipkart.pages.AdvertisePage -INFO - Click on Advertise button
+2023-01-09 15:11:56,190 - flipkart.pages.AdvertisePage -INFO - Brand name send to website
+2023-01-09 15:11:57,571 - flipkart.pages.AdvertisePage -INFO - Click on firstBrand in website
+2023-01-09 15:11:57,721 - flipkart.pages.BasePage -INFO - Test advertise pass.
+2023-01-09 15:12:00,722 - flipkart.pages.AppliancesPage -INFO - Click on Appliances button
+2023-01-09 15:12:02,166 - flipkart.pages.AppliancesPage -INFO - TV option got clicked
+2023-01-09 15:12:42,555 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-09 15:12:42,555 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:12:57,505 - flipkart.pages.BecomeSellerPage -INFO - Sends the mobile number in website
+2023-01-09 15:12:58,044 - flipkart.pages.BecomeSellerPage -INFO - Sends the email id to website
+2023-01-09 15:12:58,284 - flipkart.pages.BecomeSellerPage -INFO - Sends the GSTIN to website
+2023-01-09 15:12:58,494 - flipkart.pages.BecomeSellerPage -INFO - Click on Register & Continue button
+2023-01-09 15:12:59,025 - flipkart.pages.BasePage -ERROR - Test seller failed.
+2023-01-09 15:12:59,025 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:13:01,999 - flipkart.pages.CancelAndReturnsPage -INFO - Click on CancelAndReturns button
+2023-01-09 15:18:16,672 - flipkart.pages.AdvertisePage -INFO - Click on Advertise button
+2023-01-09 15:18:16,821 - flipkart.pages.AdvertisePage -INFO - Brand name send to website
+2023-01-09 15:18:18,165 - flipkart.pages.AdvertisePage -INFO - Click on firstBrand in website
+2023-01-09 15:18:18,342 - flipkart.pages.BasePage -INFO - Test advertise pass.
+2023-01-09 15:18:21,525 - flipkart.pages.AppliancesPage -INFO - Click on Appliances button
+2023-01-09 15:18:23,059 - flipkart.pages.AppliancesPage -INFO - TV option got clicked
+2023-01-09 15:19:03,499 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-09 15:19:03,501 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:19:11,539 - flipkart.pages.BecomeSellerPage -INFO - Sends the mobile number in website
+2023-01-09 15:19:11,733 - flipkart.pages.BecomeSellerPage -INFO - Sends the email id to website
+2023-01-09 15:19:11,877 - flipkart.pages.BecomeSellerPage -INFO - Sends the GSTIN to website
+2023-01-09 15:19:12,083 - flipkart.pages.BecomeSellerPage -INFO - Click on Register & Continue button
+2023-01-09 15:19:12,092 - flipkart.pages.BasePage -INFO - Test seller pass.
+2023-01-09 15:19:14,624 - flipkart.pages.CancelAndReturnsPage -INFO - Click on CancelAndReturns button
+2023-01-09 15:19:35,206 - flipkart.pages.BasePage -ERROR - Test cancel failed.
+2023-01-09 15:19:35,206 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:19:37,325 - flipkart.pages.CareersPage -INFO - Click on Careers button
+2023-01-09 15:19:43,095 - flipkart.pages.CareersPage -INFO - Serach text send to the website
+2023-01-09 15:19:43,189 - flipkart.pages.CareersPage -INFO - Search option got clicked
+2023-01-09 15:19:45,647 - flipkart.pages.BasePage -ERROR - Test careers failed.
+2023-01-09 15:19:45,647 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:19:47,560 - flipkart.pages.BasePage -ERROR - Test cart failed.
+2023-01-09 15:19:47,560 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:19:49,645 - flipkart.pages.CorporateInfoPage -INFO - Click on CorporateInfo button
+2023-01-09 15:19:49,852 - flipkart.pages.CorporateInfoPage -INFO - Click on AnnualReturn pdf in website
+2023-01-09 15:19:50,056 - flipkart.pages.BasePage -ERROR - Test corporate failed.
+2023-01-09 15:19:50,057 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:20:11,788 - flipkart.pages.BasePage -ERROR - Test newAccount failed.
+2023-01-09 15:20:11,788 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:20:12,073 - flipkart.pages.LoginAndCreateAccountPage -INFO - Sends the mobile in website
+2023-01-09 15:20:12,221 - flipkart.pages.LoginAndCreateAccountPage -INFO - Click on Request OTP option in website
+2023-01-09 15:20:12,305 - flipkart.pages.BasePage -INFO - Test login pass.
+2023-01-09 15:20:54,880 - flipkart.pages.BasePage -ERROR - Test deal failed.
+2023-01-09 15:20:54,880 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:20:58,379 - flipkart.pages.ExplorePlusPage -INFO - Click on my coin option
+2023-01-09 15:20:58,571 - flipkart.pages.BasePage -ERROR - Test explorePlus failed.
+2023-01-09 15:20:58,572 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:21:20,165 - flipkart.pages.BasePage -ERROR - Test fashion failed.
+2023-01-09 15:21:20,165 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:21:46,547 - flipkart.pages.FlipkartStoriesPage -INFO - Click on FlipkartStories button
+2023-01-09 15:21:46,742 - flipkart.pages.FlipkartStoriesPage -INFO - Video option got clicked
+2023-01-09 15:21:49,133 - flipkart.pages.FlipkartStoriesPage -INFO - Click on podcast button
+2023-01-09 15:21:49,149 - flipkart.pages.BasePage -INFO - Test flipkartStories pass.
+2023-01-09 15:21:51,919 - flipkart.pages.GiftCardsPage -INFO - Click on GiftCards button
+2023-01-09 15:21:54,331 - flipkart.pages.GiftCardsPage -INFO - wallet option got clicked
+2023-01-09 15:21:57,301 - flipkart.pages.GiftCardsPage -INFO - Click on buy button
+2023-01-09 15:21:57,352 - flipkart.pages.BasePage -INFO - Test giftCards pass.
+2023-01-09 15:21:59,720 - flipkart.pages.GroceryPage -INFO - Sends the pinCode in website
+2023-01-09 15:22:20,013 - flipkart.pages.BasePage -ERROR - Test grocery failed.
+2023-01-09 15:22:20,013 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:22:22,293 - flipkart.pages.HelpCenterPage -INFO - Click on HelpCenter button
+2023-01-09 15:22:22,793 - flipkart.pages.HelpCenterPage -INFO - Track order button got clicked
+2023-01-09 15:22:22,939 - flipkart.pages.HelpCenterPage -INFO - Click on postal address button
+2023-01-09 15:22:23,079 - flipkart.pages.BasePage -INFO - Test helpCenter pass.
+2023-01-09 15:22:25,756 - flipkart.pages.MobilesPage -INFO - Shop now button clicked
+2023-01-09 15:22:27,128 - flipkart.pages.BasePage -ERROR - Test mobiles failed.
+2023-01-09 15:22:27,128 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:22:31,700 - flipkart.pages.PressPage -INFO - Click on Press button
+2023-01-09 15:22:33,442 - flipkart.pages.PressPage -INFO - Newsroom option got clicked
+2023-01-09 15:22:36,023 - flipkart.pages.PressPage -INFO - Click on viewAll button
+2023-01-09 15:22:36,033 - flipkart.pages.BasePage -INFO - Test press pass.
+2023-01-09 15:22:37,808 - flipkart.pages.SearchProductPage -INFO - Click on search button
+2023-01-09 15:22:39,045 - flipkart.pages.SearchProductPage -INFO - Click on first product in website
+2023-01-09 15:22:39,369 - flipkart.pages.BasePage -ERROR - Test searchProduct failed.
+2023-01-09 15:22:39,370 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:22:42,119 - flipkart.pages.ShippingPage -INFO - Click on Shipping button
+2023-01-09 15:22:42,344 - flipkart.pages.ShippingPage -INFO - Click on flights button
+2023-01-09 15:22:42,632 - flipkart.pages.BasePage -ERROR - Test shipp failed.
+2023-01-09 15:22:42,632 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:22:44,421 - flipkart.pages.TopOffersPage -INFO - Click on top offers
+2023-01-09 15:23:24,729 - flipkart.pages.BasePage -ERROR - Test topOffers failed.
+2023-01-09 15:23:24,729 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:23:28,777 - flipkart.pages.TravelPage -INFO - Click on travel
+2023-01-09 15:23:29,549 - flipkart.pages.TravelPage -INFO - Top deal option clicked
+2023-01-09 15:23:30,118 - flipkart.pages.TravelPage -INFO - Click on use code in website
+2023-01-09 15:23:30,128 - flipkart.pages.BasePage -INFO - Test travel pass.
+2023-01-09 15:39:16,784 - flipkart.pages.AppliancesPage -INFO - Click on Appliances button
+2023-01-09 15:39:18,314 - flipkart.pages.AppliancesPage -INFO - TV option got clicked
+2023-01-09 15:39:58,756 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-09 15:39:58,756 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:40:02,166 - flipkart.pages.CancelAndReturnsPage -INFO - Click on CancelAndReturns button
+2023-01-09 15:40:23,325 - flipkart.pages.BasePage -ERROR - Test cancel failed.
+2023-01-09 15:40:23,326 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:40:26,995 - flipkart.pages.CareersPage -INFO - Click on Careers button
+2023-01-09 15:40:33,392 - flipkart.pages.CareersPage -INFO - Serach text send to the website
+2023-01-09 15:40:33,487 - flipkart.pages.CareersPage -INFO - Search option got clicked
+2023-01-09 15:40:36,631 - flipkart.pages.BasePage -ERROR - Test careers failed.
+2023-01-09 15:40:36,632 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:41:19,071 - flipkart.pages.BasePage -ERROR - Test cart failed.
+2023-01-09 15:41:19,072 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:41:22,058 - flipkart.pages.CorporateInfoPage -INFO - Click on CorporateInfo button
+2023-01-09 15:41:22,256 - flipkart.pages.CorporateInfoPage -INFO - Click on AnnualReturn pdf in website
+2023-01-09 15:41:22,276 - flipkart.pages.BasePage -INFO - Test corporate pass.
+2023-01-09 15:41:45,134 - flipkart.pages.BasePage -ERROR - Test newAccount failed.
+2023-01-09 15:41:45,135 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:41:45,684 - flipkart.pages.LoginAndCreateAccountPage -INFO - Sends the mobile in website
+2023-01-09 15:41:45,921 - flipkart.pages.LoginAndCreateAccountPage -INFO - Click on Request OTP option in website
+2023-01-09 15:41:46,033 - flipkart.pages.BasePage -INFO - Test login pass.
+2023-01-09 15:41:50,487 - flipkart.pages.DealPage -INFO - Click on clear all button
+2023-01-09 15:41:50,500 - flipkart.pages.BasePage -INFO - Test deal pass.
+2023-01-09 15:41:53,358 - flipkart.pages.ExplorePlusPage -INFO - Click on my coin option
+2023-01-09 15:41:53,371 - flipkart.pages.BasePage -INFO - Test explorePlus pass.
+2023-01-09 15:42:15,476 - flipkart.pages.BasePage -ERROR - Test fashion failed.
+2023-01-09 15:42:15,477 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:42:18,052 - flipkart.pages.GroceryPage -INFO - Sends the pinCode in website
+2023-01-09 15:42:38,438 - flipkart.pages.BasePage -ERROR - Test grocery failed.
+2023-01-09 15:42:38,439 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:42:42,018 - flipkart.pages.MobilesPage -INFO - Shop now button clicked
+2023-01-09 15:42:43,879 - flipkart.pages.BasePage -ERROR - Test mobiles failed.
+2023-01-09 15:42:43,879 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:42:45,447 - flipkart.pages.SearchProductPage -INFO - Click on search button
+2023-01-09 15:42:46,461 - flipkart.pages.SearchProductPage -INFO - Click on first product in website
+2023-01-09 15:42:46,471 - flipkart.pages.BasePage -INFO - Test searchProduct pass.
+2023-01-09 15:42:48,867 - flipkart.pages.ShippingPage -INFO - Click on Shipping button
+2023-01-09 15:42:49,017 - flipkart.pages.ShippingPage -INFO - Click on flights button
+2023-01-09 15:42:49,246 - flipkart.pages.BasePage -ERROR - Test shipp failed.
+2023-01-09 15:42:49,246 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 15:42:54,035 - flipkart.pages.TopOffersPage -INFO - Click on top offers
+2023-01-09 15:43:34,386 - flipkart.pages.BasePage -ERROR - Test topOffers failed.
+2023-01-09 15:43:34,387 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 16:24:46,474 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-09 16:24:46,481 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 16:30:28,896 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-09 16:30:28,908 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 16:33:31,207 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-09 16:33:31,213 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 16:41:31,352 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-09 16:41:31,359 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 16:45:41,902 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-09 16:45:41,910 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 16:50:47,750 - flipkart.pages.BasePage -ERROR - Test advertise failed.
+2023-01-09 16:50:47,757 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 16:54:21,526 - flipkart.pages.BasePage -ERROR - Test advertise failed.
+2023-01-09 16:54:21,540 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 17:01:19,692 - flipkart.pages.BasePage -ERROR - Test advertise failed.
+2023-01-09 17:01:19,701 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 17:03:21,377 - flipkart.pages.BasePage -ERROR - Test advertise failed.
+2023-01-09 17:03:21,384 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 17:09:43,691 - flipkart.pages.BasePage -ERROR - Test advertise failed.
+2023-01-09 17:09:43,699 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 17:16:43,864 - flipkart.pages.BasePage -ERROR - Test advertise failed.
+2023-01-09 17:16:43,871 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 17:24:41,233 - flipkart.pages.BasePage -ERROR - Test advertise failed.
+2023-01-09 17:24:41,242 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 17:24:44,309 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-09 17:24:44,310 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 17:24:45,875 - flipkart.pages.BasePage -ERROR - Test seller failed.
+2023-01-09 17:24:45,876 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 17:24:48,334 - flipkart.pages.BasePage -ERROR - Test cancel failed.
+2023-01-09 17:24:48,334 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 17:25:09,893 - flipkart.pages.BasePage -ERROR - Test careers failed.
+2023-01-09 17:25:09,893 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 17:25:13,146 - flipkart.pages.BasePage -ERROR - Test cart failed.
+2023-01-09 17:25:13,147 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 17:25:35,036 - flipkart.pages.BasePage -ERROR - Test corporate failed.
+2023-01-09 17:25:35,036 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 17:25:36,601 - flipkart.pages.LoginAndCreateAccountPage -INFO - Click on Create Account option in website
+2023-01-09 17:25:36,682 - flipkart.pages.LoginAndCreateAccountPage -INFO - Sends the mobile in website
+2023-01-09 17:25:36,842 - flipkart.pages.LoginAndCreateAccountPage -INFO - Click on continue button
+2023-01-09 17:25:36,950 - flipkart.pages.BasePage -INFO - Test newAccount pass.
+2023-01-09 17:25:38,242 - flipkart.pages.BasePage -ERROR - Test login failed.
+2023-01-09 17:25:38,242 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 17:26:21,214 - flipkart.pages.BasePage -ERROR - Test deal failed.
+2023-01-09 17:26:21,214 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 17:26:24,316 - flipkart.pages.ExplorePlusPage -INFO - Click on my coin option
+2023-01-09 17:26:24,326 - flipkart.pages.BasePage -INFO - Test explorePlus pass.
+2023-01-09 17:26:46,303 - flipkart.pages.BasePage -ERROR - Test fashion failed.
+2023-01-09 17:26:46,303 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 17:26:48,285 - flipkart.pages.GroceryPage -INFO - Sends the pinCode in website
+2023-01-09 17:48:58,273 - flipkart.pages.BasePage -ERROR - Test advertise failed.
+2023-01-09 17:48:58,281 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-09 18:31:02,459 - flipkart.pages.AdvertisePage -INFO - Click on Advertise button
+2023-01-09 18:31:02,557 - flipkart.pages.AdvertisePage -INFO - Brand name send to website
+2023-01-09 18:31:04,015 - flipkart.pages.AdvertisePage -INFO - Click on firstBrand in website
+2023-01-09 18:31:04,161 - flipkart.pages.BasePage -INFO - Test advertise pass.
+2023-01-10 14:06:04,422 - flipkart.pages.BasePage -INFO - advertise method called.
+2023-01-10 14:06:13,098 - flipkart.pages.AdvertisePage -INFO - Click on Advertise button
+2023-01-10 14:06:13,277 - flipkart.pages.AdvertisePage -INFO - Brand name send to website
+2023-01-10 14:06:15,561 - flipkart.pages.AdvertisePage -INFO - Click on firstBrand in website
+2023-01-10 14:06:15,898 - flipkart.pages.BasePage -INFO - Test advertise pass.
+2023-01-10 14:06:18,884 - flipkart.pages.BasePage -INFO - appliance method called.
+2023-01-10 14:06:20,036 - flipkart.pages.AppliancesPage -INFO - Click on Appliances button
+2023-01-10 14:06:21,952 - flipkart.pages.AppliancesPage -INFO - TV option got clicked
+2023-01-10 14:16:01,094 - flipkart.pages.BasePage -INFO - advertise method called.
+2023-01-10 14:16:09,989 - flipkart.pages.AdvertisePage -INFO - Click on Advertise button
+2023-01-10 14:16:10,254 - flipkart.pages.AdvertisePage -INFO - Brand name send to website
+2023-01-10 14:16:12,571 - flipkart.pages.AdvertisePage -INFO - Click on firstBrand in website
+2023-01-10 14:16:12,862 - flipkart.pages.BasePage -INFO - Test advertise pass.
+2023-01-10 14:16:15,925 - flipkart.pages.BasePage -INFO - appliance method called.
+2023-01-10 14:16:17,034 - flipkart.pages.AppliancesPage -INFO - Click on Appliances button
+2023-01-10 14:16:18,947 - flipkart.pages.AppliancesPage -INFO - TV option got clicked
+2023-01-10 14:16:59,985 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-10 14:16:59,986 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 14:17:02,799 - flipkart.pages.BasePage -INFO - seller method called.
+2023-01-10 14:17:18,843 - flipkart.pages.BecomeSellerPage -INFO - Sends the mobile number in website
+2023-01-10 14:17:19,371 - flipkart.pages.BecomeSellerPage -INFO - Sends the email id to website
+2023-01-10 14:17:19,627 - flipkart.pages.BecomeSellerPage -INFO - Sends the GSTIN to website
+2023-01-10 14:17:19,850 - flipkart.pages.BecomeSellerPage -INFO - Click on Register & Continue button
+2023-01-10 14:17:19,861 - flipkart.pages.BasePage -INFO - Test seller pass.
+2023-01-10 14:17:22,606 - flipkart.pages.BasePage -INFO - cancel method called.
+2023-01-10 14:17:24,542 - flipkart.pages.BasePage -ERROR - Test cancel failed.
+2023-01-10 14:17:24,543 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 14:17:26,741 - flipkart.pages.BasePage -INFO - careers method called.
+2023-01-10 14:17:26,925 - flipkart.pages.CareersPage -INFO - Click on Careers button
+2023-01-10 14:17:33,712 - flipkart.pages.CareersPage -INFO - Serach text send to the website
+2023-01-10 14:17:54,187 - flipkart.pages.BasePage -ERROR - Test careers failed.
+2023-01-10 14:17:54,187 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 14:17:56,645 - flipkart.pages.BasePage -INFO - cart method called.
+2023-01-10 14:18:37,293 - flipkart.pages.BasePage -ERROR - Test cart failed.
+2023-01-10 14:18:37,293 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 14:18:40,286 - flipkart.pages.BasePage -INFO - corporate method called.
+2023-01-10 14:18:41,313 - flipkart.pages.CorporateInfoPage -INFO - Click on CorporateInfo button
+2023-01-10 14:18:41,584 - flipkart.pages.CorporateInfoPage -INFO - Click on AnnualReturn pdf in website
+2023-01-10 14:18:41,617 - flipkart.pages.BasePage -INFO - Test corporate pass.
+2023-01-10 14:18:43,387 - flipkart.pages.BasePage -INFO - newAccount method called.
+2023-01-10 14:19:03,960 - flipkart.pages.BasePage -ERROR - Test newAccount failed.
+2023-01-10 14:19:03,961 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 14:19:03,983 - flipkart.pages.BasePage -INFO - login method called.
+2023-01-10 14:19:04,321 - flipkart.pages.LoginAndCreateAccountPage -INFO - Sends the mobile in website
+2023-01-10 14:19:04,491 - flipkart.pages.LoginAndCreateAccountPage -INFO - Click on Request OTP option in website
+2023-01-10 14:19:04,586 - flipkart.pages.BasePage -INFO - Test login pass.
+2023-01-10 14:19:06,750 - flipkart.pages.BasePage -INFO - deal method called.
+2023-01-10 14:19:09,543 - flipkart.pages.DealPage -INFO - Click on clear all button
+2023-01-10 14:19:10,390 - flipkart.pages.BasePage -ERROR - Test deal failed.
+2023-01-10 14:19:10,390 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 14:19:12,905 - flipkart.pages.BasePage -INFO - explorePlus method called.
+2023-01-10 14:19:16,283 - flipkart.pages.ExplorePlusPage -INFO - Click on my coin option
+2023-01-10 14:19:16,559 - flipkart.pages.BasePage -ERROR - Test explorePlus failed.
+2023-01-10 14:19:16,560 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 14:19:18,064 - flipkart.pages.BasePage -INFO - fashion method called.
+2023-01-10 14:19:38,513 - flipkart.pages.BasePage -ERROR - Test fashion failed.
+2023-01-10 14:19:38,514 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 14:19:40,145 - flipkart.pages.BasePage -INFO - grocery method called.
+2023-01-10 14:19:40,988 - flipkart.pages.GroceryPage -INFO - Sends the pinCode in website
+2023-01-10 14:20:01,280 - flipkart.pages.BasePage -ERROR - Test grocery failed.
+2023-01-10 14:20:01,281 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 14:20:03,362 - flipkart.pages.BasePage -INFO - mobiles method called.
+2023-01-10 14:20:04,604 - flipkart.pages.MobilesPage -INFO - Shop now button clicked
+2023-01-10 14:20:06,323 - flipkart.pages.BasePage -ERROR - Test mobiles failed.
+2023-01-10 14:20:06,324 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 14:20:07,670 - flipkart.pages.BasePage -INFO - searchProduct method called.
+2023-01-10 14:20:07,846 - flipkart.pages.SearchProductPage -INFO - Click on search button
+2023-01-10 14:20:48,198 - flipkart.pages.BasePage -ERROR - Test searchProduct failed.
+2023-01-10 14:20:48,199 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 14:20:50,825 - flipkart.pages.BasePage -INFO - shipp method called.
+2023-01-10 14:20:52,002 - flipkart.pages.ShippingPage -INFO - Click on Shipping button
+2023-01-10 14:20:52,372 - flipkart.pages.ShippingPage -INFO - Click on flights button
+2023-01-10 14:20:52,388 - flipkart.pages.BasePage -INFO - Test shipp pass.
+2023-01-10 14:20:53,923 - flipkart.pages.BasePage -INFO - topOffers method called.
+2023-01-10 14:38:12,985 - flipkart.pages.BasePage -INFO - 
+advertise method called.
+2023-01-10 14:38:23,654 - flipkart.pages.AdvertisePage -INFO - Click on Advertise button
+2023-01-10 14:38:23,819 - flipkart.pages.AdvertisePage -INFO - Brand name send to website
+2023-01-10 14:38:25,602 - flipkart.pages.AdvertisePage -INFO - Click on firstBrand in website
+2023-01-10 14:38:25,897 - flipkart.pages.BasePage -INFO - Test advertise pass.
+2023-01-10 14:41:02,819 - flipkart.pages.BasePage -INFO - advertise method called.
+2023-01-10 14:41:11,720 - flipkart.pages.AdvertisePage -INFO - Click on Advertise button
+2023-01-10 14:41:11,897 - flipkart.pages.AdvertisePage -INFO - Brand name send to website
+2023-01-10 14:41:13,513 - flipkart.pages.AdvertisePage -INFO - Click on firstBrand in website
+2023-01-10 14:41:13,799 - flipkart.pages.BasePage -INFO - Test advertise pass.
+2023-01-10 14:42:28,399 - flipkart.pages.BasePage -INFO - appliance method called.
+2023-01-10 14:42:30,473 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-10 14:42:30,477 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 14:44:28,836 - flipkart.pages.BasePage -INFO - appliance method called.
+2023-01-10 14:44:50,458 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-10 14:44:50,461 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 14:50:44,601 - flipkart.pages.BasePage -INFO - appliance method called.
+2023-01-10 14:50:46,078 - flipkart.pages.AppliancesPage -INFO - Click on Appliances button
+2023-01-10 14:50:47,991 - flipkart.pages.AppliancesPage -INFO - TV option got clicked
+2023-01-10 14:51:28,503 - flipkart.pages.BasePage -ERROR - Test appliance failed.
+2023-01-10 14:51:28,503 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 21:48:23,224 - flipkart.pages.BasePage -INFO - advertise method called.
+2023-01-10 21:48:23,793 - flipkart.pages.AdvertisePage -INFO - Scrolled to bottom of flipkart website
+2023-01-10 21:48:34,113 - flipkart.pages.AdvertisePage -INFO - Click on Advertise button
+2023-01-10 21:48:34,271 - flipkart.pages.AdvertisePage -INFO - Brand name send to website
+2023-01-10 21:48:35,838 - flipkart.pages.AdvertisePage -INFO - Click on firstBrand in website
+2023-01-10 21:48:36,845 - flipkart.pages.BasePage -ERROR - Test advertise failed.
+2023-01-10 21:48:36,847 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 21:50:40,946 - flipkart.pages.BasePage -INFO - seller method called.
+2023-01-10 21:51:00,699 - flipkart.pages.BecomeSellerPage -INFO - Sends the mobile number in website
+2023-01-10 21:51:00,873 - flipkart.pages.BecomeSellerPage -INFO - Sends the email id to website
+2023-01-10 21:51:01,018 - flipkart.pages.BecomeSellerPage -INFO - Sends the GSTIN to website
+2023-01-10 21:51:01,223 - flipkart.pages.BecomeSellerPage -INFO - Click on Register & Continue button
+2023-01-10 21:51:01,636 - flipkart.pages.BasePage -ERROR - Test seller failed.
+2023-01-10 21:51:01,636 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 21:53:02,736 - flipkart.pages.BasePage -INFO - seller method called.
+2023-01-10 21:53:18,802 - flipkart.pages.BecomeSellerPage -INFO - Sends the mobile number in website
+2023-01-10 21:53:19,194 - flipkart.pages.BecomeSellerPage -INFO - Sends the email id to website
+2023-01-10 21:53:19,463 - flipkart.pages.BecomeSellerPage -INFO - Sends the GSTIN to website
+2023-01-10 21:53:19,710 - flipkart.pages.BecomeSellerPage -INFO - Click on Register & Continue button
+2023-01-10 21:53:19,742 - flipkart.pages.BasePage -INFO - Test seller pass.
+2023-01-10 21:54:36,440 - flipkart.pages.BasePage -INFO - seller method called.
+2023-01-10 21:54:54,674 - flipkart.pages.BecomeSellerPage -INFO - Sends the mobile number in website
+2023-01-10 21:54:55,072 - flipkart.pages.BecomeSellerPage -INFO - Sends the email id to website
+2023-01-10 21:54:55,255 - flipkart.pages.BecomeSellerPage -INFO - Sends the GSTIN to website
+2023-01-10 21:54:55,544 - flipkart.pages.BecomeSellerPage -INFO - Click on Register & Continue button
+2023-01-10 21:54:55,561 - flipkart.pages.BasePage -INFO - Test seller pass.
+2023-01-10 22:02:24,602 - flipkart.pages.BasePage -INFO - advertise method called.
+2023-01-10 22:02:25,075 - flipkart.pages.AdvertisePage -INFO - Scrolled to bottom of flipkart website
+2023-01-10 22:02:32,000 - flipkart.pages.AdvertisePage -INFO - Click on Advertise button
+2023-01-10 22:02:32,141 - flipkart.pages.AdvertisePage -INFO - Brand name send to website
+2023-01-10 22:02:33,900 - flipkart.pages.AdvertisePage -INFO - Click on firstBrand in website
+2023-01-10 22:02:34,161 - flipkart.pages.BasePage -INFO - Test advertise pass.
+2023-01-10 22:15:04,980 - flipkart.pages.BasePage -INFO - advertise method called.
+2023-01-10 22:15:06,275 - flipkart.pages.AdvertisePage -INFO - Scrolled to bottom of flipkart website
+2023-01-10 22:15:07,667 - flipkart.pages.BasePage -ERROR - Test advertise failed.
+2023-01-10 22:15:07,667 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 22:17:34,634 - flipkart.pages.BasePage -INFO - advertise method called.
+2023-01-10 22:17:35,943 - flipkart.pages.AdvertisePage -INFO - Scrolled to bottom of flipkart website
+2023-01-10 22:17:37,323 - flipkart.pages.BasePage -ERROR - Test advertise failed.
+2023-01-10 22:17:37,323 - flipkart.pages.BasePage -INFO - ScreenShot taken successfuly
+2023-01-10 22:19:32,456 - flipkart.pages.BasePage -INFO - advertise method called.
+2023-01-10 22:19:33,743 - flipkart.pages.AdvertisePage -INFO - Scrolled to bottom of flipkart website
+2023-01-10 22:19:41,397 - flipkart.pages.AdvertisePage -INFO - Click on Advertise button
+2023-01-10 22:19:41,526 - flipkart.pages.AdvertisePage -INFO - Brand name send to website
+2023-01-10 22:19:42,906 - flipkart.pages.AdvertisePage -INFO - Click on firstBrand in website
+2023-01-10 22:19:43,053 - flipkart.pages.BasePage -INFO - Test advertise pass.
