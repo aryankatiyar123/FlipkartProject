@@ -32,7 +32,6 @@ public class ExplorePlusPage extends HomePage
 			wait.until(ExpectedConditions.visibilityOf(HomePage.btn_Close)).click();
 		} catch (Exception e) {		}
 		HomePage.btn_ExplorePlus.click();
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_MyCoin)).click();
 		log.info("Click on my coin option");
 	}

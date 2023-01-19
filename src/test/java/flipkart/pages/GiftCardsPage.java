@@ -56,7 +56,6 @@ public class GiftCardsPage extends HomePage
 		txt_ReceName.sendKeys(receName);
 		btn_CardValue.click();
 		btn_Price.click();
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_Buy)).click();
 		log.info("Click on buy button");
 	}

@@ -24,6 +24,9 @@ public class CartPage extends HomePage
 	@FindBy(xpath = "//span[contains(text(),'Shop now')]")
 	WebElement btn_ShopNow;
 	
+	@FindBy(xpath = "//body/div[@id='container']/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[2]/div[1]")
+	WebElement btn_Grocery;
+	
 	public void cart() throws Throwable
 	{
 		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
@@ -32,8 +35,7 @@ public class CartPage extends HomePage
 			wait.until(ExpectedConditions.visibilityOf(HomePage.btn_Close)).click();
 		} catch (Exception e) {		}
 		HomePage.btn_Cart.click();
-		HomePage.btn_Grocery.click();
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
+		btn_Grocery.click();
 		wait.until(ExpectedConditions.elementToBeClickable(btn_ShopNow)).click();
 		log.info("Click on shopNow");
 	}

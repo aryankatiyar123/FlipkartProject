@@ -39,7 +39,6 @@ public class ShippingPage extends HomePage
 		HomePage.btn_Shipping.click();
 		log.info("Click on Shipping button");
 		
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_Flights)).click();
 		log.info("Click on flights button");
 	}

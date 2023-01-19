@@ -50,7 +50,6 @@ public class BecomeSellerPage extends HomePage
 		log.info("Sends the email id to website");
 		txt_GSTIN.sendKeys(gstIN);
 		log.info("Sends the GSTIN to website");
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_RegAndConti)).click();
 		log.info("Click on Register & Continue button");
 	}

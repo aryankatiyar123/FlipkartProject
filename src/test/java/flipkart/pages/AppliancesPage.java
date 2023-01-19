@@ -27,9 +27,6 @@ public class AppliancesPage extends HomePage
 	@FindBy(xpath = "//body/div[@id='container']/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]/div[1]")
 	WebElement btn_FirstTV;
 	
-	@FindBy(xpath = "//body/div[@id='container']/div[1]/div[3]/div[1]/div[2]/div[2]/div[3]/div[1]/div[1]/span[1]/span[1]/*[1]")
-	WebElement btn_Share;
-	
 	
 	public void appliances() throws Throwable
 	{
@@ -43,9 +40,7 @@ public class AppliancesPage extends HomePage
 		
 		btn_TV.click();
 		log.info("TV option got clicked");
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_FirstTV)).click();
 		log.info("Click on first TV option");
-		btn_Share.click();
 	}
 }

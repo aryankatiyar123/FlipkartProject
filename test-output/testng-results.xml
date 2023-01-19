@@ -1,51 +1,537 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="3" total="25" passed="0" failed="0" skipped="22">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-10T16:49:32Z" name="Default suite" finished-at="2023-01-10T16:49:43Z" duration-ms="11059">
+  <suite started-at="2023-01-14T14:43:17Z" name="Suite" finished-at="2023-01-14T14:43:17Z" duration-ms="278">
     <groups>
     </groups>
-    <test started-at="2023-01-10T16:49:32Z" name="Default test" finished-at="2023-01-10T16:49:43Z" duration-ms="11059">
+    <test started-at="2023-01-14T14:43:17Z" name="Test_1" finished-at="2023-01-14T14:43:17Z" duration-ms="35">
       <class name="flipkart.testcases.Advertise">
-        <test-method is-config="true" signature="allSetup()[pri:0, instance:flipkart.testcases.Advertise@388526fb]" started-at="2023-01-10T16:48:44Z" name="allSetup" finished-at="2023-01-10T16:49:32Z" duration-ms="48380" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- allSetup -->
-        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.Advertise@388526fb]" started-at="2023-01-10T16:49:32Z" name="openingURL" finished-at="2023-01-10T16:49:32Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.Advertise@2034b64c]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openingURL -->
-        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.Advertise@388526fb]" started-at="2023-01-10T16:49:32Z" name="startTest" finished-at="2023-01-10T16:49:33Z" duration-ms="1208" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void flipkart.testcases.Advertise.advertise() throws java.lang.Throwable]]>
-              </value>
-            </param>
-          </params>
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.Advertise@2034b64c]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startTest -->
-        <test-method signature="advertise()[pri:1, instance:flipkart.testcases.Advertise@388526fb]" started-at="2023-01-10T16:49:33Z" name="advertise" finished-at="2023-01-10T16:49:43Z" duration-ms="9397" status="PASS">
+        <test-method signature="advertise()[pri:1, instance:flipkart.testcases.Advertise@2034b64c]" started-at="2023-01-14T14:43:17Z" name="advertise" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- advertise -->
-        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.Advertise@388526fb]" started-at="2023-01-10T16:49:43Z" name="status" finished-at="2023-01-10T16:49:43Z" duration-ms="429" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=advertise status=SUCCESS method=Advertise.advertise()[pri:1, instance:flipkart.testcases.Advertise@388526fb] output={null}]]]>
-              </value>
-            </param>
-          </params>
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.Advertise@2034b64c]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- status -->
-        <test-method is-config="true" signature="exit()[pri:0, instance:flipkart.testcases.Advertise@388526fb]" started-at="2023-01-10T16:49:43Z" name="exit" finished-at="2023-01-10T16:49:44Z" duration-ms="771" status="PASS">
+      </class> <!-- flipkart.testcases.Advertise -->
+    </test> <!-- Test_1 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_2" finished-at="2023-01-14T14:43:17Z" duration-ms="7">
+      <class name="flipkart.testcases.Appliances">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.Appliances@5e2c3d18]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.Appliances@5e2c3d18]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="appliance()[pri:2, instance:flipkart.testcases.Appliances@5e2c3d18]" started-at="2023-01-14T14:43:17Z" name="appliance" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appliance -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.Appliances@5e2c3d18]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.testcases.Appliances -->
+    </test> <!-- Test_2 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_3" finished-at="2023-01-14T14:43:17Z" duration-ms="8">
+      <class name="flipkart.testcases.BecomeSeller">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.BecomeSeller@33bc72d1]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.BecomeSeller@33bc72d1]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="seller()[pri:3, instance:flipkart.testcases.BecomeSeller@33bc72d1]" started-at="2023-01-14T14:43:17Z" name="seller" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seller -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.BecomeSeller@33bc72d1]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.testcases.BecomeSeller -->
+    </test> <!-- Test_3 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_4" finished-at="2023-01-14T14:43:17Z" duration-ms="6">
+      <class name="flipkart.testcases.CancelAndReturns">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.CancelAndReturns@6fa51cd4]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.CancelAndReturns@6fa51cd4]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="cancel()[pri:4, instance:flipkart.testcases.CancelAndReturns@6fa51cd4]" started-at="2023-01-14T14:43:17Z" name="cancel" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancel -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.CancelAndReturns@6fa51cd4]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.testcases.CancelAndReturns -->
+    </test> <!-- Test_4 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_5" finished-at="2023-01-14T14:43:17Z" duration-ms="7">
+      <class name="flipkart.testcases.Careers">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.Careers@1750fbeb]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.Careers@1750fbeb]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="careers()[pri:5, instance:flipkart.testcases.Careers@1750fbeb]" started-at="2023-01-14T14:43:17Z" name="careers" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- careers -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.Careers@1750fbeb]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.testcases.Careers -->
+    </test> <!-- Test_5 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_6" finished-at="2023-01-14T14:43:17Z" duration-ms="6">
+      <class name="flipkart.testcases.Cart">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.Cart@231f98ef]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method signature="cart()[pri:6, instance:flipkart.testcases.Cart@231f98ef]" started-at="2023-01-14T14:43:17Z" name="cart" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.Cart@231f98ef]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.Cart@231f98ef]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.testcases.Cart -->
+    </test> <!-- Test_6 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_7" finished-at="2023-01-14T14:43:17Z" duration-ms="4">
+      <class name="flipkart.testcases.CorporateInfo">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.CorporateInfo@8462f31]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.CorporateInfo@8462f31]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="corporate()[pri:7, instance:flipkart.testcases.CorporateInfo@8462f31]" started-at="2023-01-14T14:43:17Z" name="corporate" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- corporate -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.CorporateInfo@8462f31]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.testcases.CorporateInfo -->
+    </test> <!-- Test_7 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_8" finished-at="2023-01-14T14:43:17Z" duration-ms="12">
+      <class name="flipkart.testcases.FlipkartLogin">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.FlipkartLogin@4082ba93]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.FlipkartLogin@4082ba93]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method signature="login()[pri:12, instance:flipkart.testcases.FlipkartLogin@4082ba93]" started-at="2023-01-14T14:43:17Z" name="login" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- flipkart.testcases.FlipkartLogin -->
+      <class name="flipkart.testcases.CreateAccount">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.CreateAccount@4a003cbe]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.CreateAccount@4a003cbe]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="newAccount()[pri:8, instance:flipkart.testcases.CreateAccount@4a003cbe]" started-at="2023-01-14T14:43:17Z" name="newAccount" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newAccount -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.CreateAccount@4a003cbe]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.testcases.CreateAccount -->
+    </test> <!-- Test_8 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_9" finished-at="2023-01-14T14:43:17Z" duration-ms="4">
+      <class name="flipkart.testcases.Deal">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.Deal@19932c16]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.Deal@19932c16]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="deal()[pri:9, instance:flipkart.testcases.Deal@19932c16]" started-at="2023-01-14T14:43:17Z" name="deal" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deal -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.Deal@19932c16]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.testcases.Deal -->
+    </test> <!-- Test_9 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_10" finished-at="2023-01-14T14:43:17Z" duration-ms="4">
+      <class name="flipkart.testcases.ExplorePlus">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.ExplorePlus@6f10d5b6]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.ExplorePlus@6f10d5b6]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.ExplorePlus@6f10d5b6]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method signature="explorePlus()[pri:10, instance:flipkart.testcases.ExplorePlus@6f10d5b6]" started-at="2023-01-14T14:43:17Z" name="explorePlus" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- explorePlus -->
+      </class> <!-- flipkart.testcases.ExplorePlus -->
+    </test> <!-- Test_10 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_11" finished-at="2023-01-14T14:43:17Z" duration-ms="4">
+      <class name="flipkart.testcases.Fashion">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.Fashion@723ca036]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method signature="fashion()[pri:11, instance:flipkart.testcases.Fashion@723ca036]" started-at="2023-01-14T14:43:17Z" name="fashion" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fashion -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.Fashion@723ca036]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.Fashion@723ca036]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.testcases.Fashion -->
+    </test> <!-- Test_11 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_12" finished-at="2023-01-14T14:43:17Z" duration-ms="4">
+      <class name="flipkart.testcases.FlipkartStories">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.FlipkartStories@312aa7c]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.FlipkartStories@312aa7c]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="flipkartStories()[pri:13, instance:flipkart.testcases.FlipkartStories@312aa7c]" started-at="2023-01-14T14:43:17Z" name="flipkartStories" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartStories -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.FlipkartStories@312aa7c]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.testcases.FlipkartStories -->
+    </test> <!-- Test_12 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_13" finished-at="2023-01-14T14:43:17Z" duration-ms="5">
+      <class name="flipkart.testcases.GiftCards">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.GiftCards@71075444]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.GiftCards@71075444]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="giftCards()[pri:14, instance:flipkart.testcases.GiftCards@71075444]" started-at="2023-01-14T14:43:17Z" name="giftCards" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- giftCards -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.GiftCards@71075444]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.testcases.GiftCards -->
+    </test> <!-- Test_13 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_14" finished-at="2023-01-14T14:43:17Z" duration-ms="3">
+      <class name="flipkart.testcases.Grocery">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.Grocery@1a245833]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.Grocery@1a245833]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.Grocery@1a245833]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method signature="grocery()[pri:15, instance:flipkart.testcases.Grocery@1a245833]" started-at="2023-01-14T14:43:17Z" name="grocery" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- grocery -->
+      </class> <!-- flipkart.testcases.Grocery -->
+    </test> <!-- Test_14 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_15" finished-at="2023-01-14T14:43:17Z" duration-ms="3">
+      <class name="flipkart.testcases.HelpCenter">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.HelpCenter@2ab4bc72]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method signature="helpCenter()[pri:16, instance:flipkart.testcases.HelpCenter@2ab4bc72]" started-at="2023-01-14T14:43:17Z" name="helpCenter" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helpCenter -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.HelpCenter@2ab4bc72]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.HelpCenter@2ab4bc72]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.testcases.HelpCenter -->
+    </test> <!-- Test_15 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_16" finished-at="2023-01-14T14:43:17Z" duration-ms="3">
+      <class name="flipkart.testcases.Mobiles">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.Mobiles@2de56eb2]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.Mobiles@2de56eb2]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="mobiles()[pri:17, instance:flipkart.testcases.Mobiles@2de56eb2]" started-at="2023-01-14T14:43:17Z" name="mobiles" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobiles -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.Mobiles@2de56eb2]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.testcases.Mobiles -->
+    </test> <!-- Test_16 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_17" finished-at="2023-01-14T14:43:17Z" duration-ms="3">
+      <class name="flipkart.testcases.Press">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.Press@48e1f6c7]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.Press@48e1f6c7]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.Press@48e1f6c7]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method signature="press()[pri:18, instance:flipkart.testcases.Press@48e1f6c7]" started-at="2023-01-14T14:43:17Z" name="press" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- press -->
+      </class> <!-- flipkart.testcases.Press -->
+    </test> <!-- Test_17 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_18" finished-at="2023-01-14T14:43:17Z" duration-ms="3">
+      <class name="flipkart.testcases.SearchProduct">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.SearchProduct@431cd9b2]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.SearchProduct@431cd9b2]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.SearchProduct@431cd9b2]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method signature="searchProduct()[pri:19, instance:flipkart.testcases.SearchProduct@431cd9b2]" started-at="2023-01-14T14:43:17Z" name="searchProduct" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+      </class> <!-- flipkart.testcases.SearchProduct -->
+    </test> <!-- Test_18 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_19" finished-at="2023-01-14T14:43:17Z" duration-ms="4">
+      <class name="flipkart.testcases.Shipping">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.Shipping@68c9d179]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method signature="shipp()[pri:20, instance:flipkart.testcases.Shipping@68c9d179]" started-at="2023-01-14T14:43:17Z" name="shipp" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shipp -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.Shipping@68c9d179]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.Shipping@68c9d179]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.testcases.Shipping -->
+    </test> <!-- Test_19 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_20" finished-at="2023-01-14T14:43:17Z" duration-ms="2">
+      <class name="flipkart.testcases.TopOffers">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.TopOffers@1c742ed4]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method signature="topOffers()[pri:21, instance:flipkart.testcases.TopOffers@1c742ed4]" started-at="2023-01-14T14:43:17Z" name="topOffers" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- topOffers -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.TopOffers@1c742ed4]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.TopOffers@1c742ed4]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.testcases.TopOffers -->
+    </test> <!-- Test_20 -->
+    <test started-at="2023-01-14T14:43:17Z" name="Test_21" finished-at="2023-01-14T14:43:17Z" duration-ms="8">
+      <class name="flipkart.testcases.Travel">
+        <test-method is-config="true" signature="allSetup()[pri:0, instance:flipkart.testcases.Travel@25df00a0]" started-at="2023-01-14T14:43:17Z" name="allSetup" finished-at="2023-01-14T14:43:17Z" duration-ms="542" status="FAIL">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:565)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:242)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:157)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:110)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:98)
+at flipkart.pages.BasePage.allSetup(BasePage.java:54)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:401)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.WebDriverException: Driver server process died prematurely.
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'IN-189K1N3', ip: '192.168.81.52', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: driver.version: FirefoxDriver
+at org.openqa.selenium.remote.service.DriverService.start(DriverService.java:226)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:98)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+... 25 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allSetup -->
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:flipkart.testcases.Travel@25df00a0]" started-at="2023-01-14T14:43:17Z" name="openingURL" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:flipkart.testcases.Travel@25df00a0]" started-at="2023-01-14T14:43:17Z" name="startTest" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="travel()[pri:22, instance:flipkart.testcases.Travel@25df00a0]" started-at="2023-01-14T14:43:17Z" name="travel" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:565)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:242)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:157)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:110)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:98)
+at flipkart.pages.BasePage.allSetup(BasePage.java:54)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:401)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.WebDriverException: Driver server process died prematurely.
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'IN-189K1N3', ip: '192.168.81.52', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: driver.version: FirefoxDriver
+at org.openqa.selenium.remote.service.DriverService.start(DriverService.java:226)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:98)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+... 25 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travel -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.Travel@25df00a0]" started-at="2023-01-14T14:43:17Z" name="status" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:flipkart.testcases.Travel@25df00a0]" started-at="2023-01-14T14:43:17Z" name="exit" finished-at="2023-01-14T14:43:17Z" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- exit -->
-      </class> <!-- flipkart.testcases.Advertise -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- flipkart.testcases.Travel -->
+    </test> <!-- Test_21 -->
+  </suite> <!-- Suite -->
 </testng-results>

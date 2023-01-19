@@ -21,7 +21,7 @@ public class HomePage
 	@FindBy(xpath = "//body/div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[1]/button[1]")
 	public static WebElement btn_Search;
 	
-
+	//body/div[@id='container']/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[2]/div[1]
 	//3--------------Grocery path in website-----------3
 	@FindBy(xpath = "//div[contains(text(),'Grocery')]")
 	public static WebElement btn_Grocery;
@@ -115,5 +115,5 @@ public class HomePage
 	//21-----------Corporate information button path-------------21
 	@FindBy(xpath = "//a[contains(text(),'Corporate Information')]")
 	public static WebElement btn_CorporateInfo;
-
+		
 }

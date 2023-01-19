@@ -56,7 +56,7 @@ public class LoginAndCreateAccountPage extends HomePage
 	
 	public void createAccount(String mobileNO) throws Throwable
 	{
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		try 
 	    {
 			wait.until(ExpectedConditions.visibilityOf(HomePage.btn_Close)).click();
@@ -66,7 +66,6 @@ public class LoginAndCreateAccountPage extends HomePage
 		log.info("Click on Create Account option in website");
 		txt_MobileNO.sendKeys(mobileNO);
 		log.info("Sends the mobile in website");
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_Continue)).click();
 		log.info("Click on continue button");
 	}

@@ -40,7 +40,6 @@ public class FlipkartStoriesPage extends HomePage
 		
 		btn_Video.click();
 		log.info("Video option got clicked");
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_PodCast)).click();
 		log.info("Click on podcast button");
 	}

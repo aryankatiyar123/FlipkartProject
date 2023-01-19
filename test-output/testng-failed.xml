@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Default test(failed)">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test_1(failed)">
     <classes>
       <class name="flipkart.testcases.Advertise">
         <methods>
@@ -14,5 +14,295 @@
         </methods>
       </class> <!-- flipkart.testcases.Advertise -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Test_1(failed) -->
+  <test thread-count="5" name="Test_2(failed)">
+    <classes>
+      <class name="flipkart.testcases.Appliances">
+        <methods>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+          <include name="appliance"/>
+        </methods>
+      </class> <!-- flipkart.testcases.Appliances -->
+    </classes>
+  </test> <!-- Test_2(failed) -->
+  <test thread-count="5" name="Test_3(failed)">
+    <classes>
+      <class name="flipkart.testcases.BecomeSeller">
+        <methods>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="seller"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.BecomeSeller -->
+    </classes>
+  </test> <!-- Test_3(failed) -->
+  <test thread-count="5" name="Test_4(failed)">
+    <classes>
+      <class name="flipkart.testcases.CancelAndReturns">
+        <methods>
+          <include name="startTest"/>
+          <include name="cancel"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.CancelAndReturns -->
+    </classes>
+  </test> <!-- Test_4(failed) -->
+  <test thread-count="5" name="Test_5(failed)">
+    <classes>
+      <class name="flipkart.testcases.Careers">
+        <methods>
+          <include name="careers"/>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.Careers -->
+    </classes>
+  </test> <!-- Test_5(failed) -->
+  <test thread-count="5" name="Test_6(failed)">
+    <classes>
+      <class name="flipkart.testcases.Cart">
+        <methods>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+          <include name="cart"/>
+        </methods>
+      </class> <!-- flipkart.testcases.Cart -->
+    </classes>
+  </test> <!-- Test_6(failed) -->
+  <test thread-count="5" name="Test_7(failed)">
+    <classes>
+      <class name="flipkart.testcases.CorporateInfo">
+        <methods>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="corporate"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.CorporateInfo -->
+    </classes>
+  </test> <!-- Test_7(failed) -->
+  <test thread-count="5" name="Test_8(failed)">
+    <classes>
+      <class name="flipkart.testcases.CreateAccount">
+        <methods>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+          <include name="newAccount"/>
+        </methods>
+      </class> <!-- flipkart.testcases.CreateAccount -->
+      <class name="flipkart.testcases.FlipkartLogin">
+        <methods>
+          <include name="login"/>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.FlipkartLogin -->
+    </classes>
+  </test> <!-- Test_8(failed) -->
+  <test thread-count="5" name="Test_9(failed)">
+    <classes>
+      <class name="flipkart.testcases.Deal">
+        <methods>
+          <include name="startTest"/>
+          <include name="deal"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.Deal -->
+    </classes>
+  </test> <!-- Test_9(failed) -->
+  <test thread-count="5" name="Test_10(failed)">
+    <classes>
+      <class name="flipkart.testcases.ExplorePlus">
+        <methods>
+          <include name="explorePlus"/>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.ExplorePlus -->
+    </classes>
+  </test> <!-- Test_10(failed) -->
+  <test thread-count="5" name="Test_11(failed)">
+    <classes>
+      <class name="flipkart.testcases.Fashion">
+        <methods>
+          <include name="fashion"/>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.Fashion -->
+    </classes>
+  </test> <!-- Test_11(failed) -->
+  <test thread-count="5" name="Test_12(failed)">
+    <classes>
+      <class name="flipkart.testcases.FlipkartStories">
+        <methods>
+          <include name="flipkartStories"/>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.FlipkartStories -->
+    </classes>
+  </test> <!-- Test_12(failed) -->
+  <test thread-count="5" name="Test_13(failed)">
+    <classes>
+      <class name="flipkart.testcases.GiftCards">
+        <methods>
+          <include name="giftCards"/>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.GiftCards -->
+    </classes>
+  </test> <!-- Test_13(failed) -->
+  <test thread-count="5" name="Test_14(failed)">
+    <classes>
+      <class name="flipkart.testcases.Grocery">
+        <methods>
+          <include name="grocery"/>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.Grocery -->
+    </classes>
+  </test> <!-- Test_14(failed) -->
+  <test thread-count="5" name="Test_15(failed)">
+    <classes>
+      <class name="flipkart.testcases.HelpCenter">
+        <methods>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+          <include name="helpCenter"/>
+        </methods>
+      </class> <!-- flipkart.testcases.HelpCenter -->
+    </classes>
+  </test> <!-- Test_15(failed) -->
+  <test thread-count="5" name="Test_16(failed)">
+    <classes>
+      <class name="flipkart.testcases.Mobiles">
+        <methods>
+          <include name="mobiles"/>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.Mobiles -->
+    </classes>
+  </test> <!-- Test_16(failed) -->
+  <test thread-count="5" name="Test_17(failed)">
+    <classes>
+      <class name="flipkart.testcases.Press">
+        <methods>
+          <include name="press"/>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.Press -->
+    </classes>
+  </test> <!-- Test_17(failed) -->
+  <test thread-count="5" name="Test_18(failed)">
+    <classes>
+      <class name="flipkart.testcases.SearchProduct">
+        <methods>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="searchProduct"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.SearchProduct -->
+    </classes>
+  </test> <!-- Test_18(failed) -->
+  <test thread-count="5" name="Test_19(failed)">
+    <classes>
+      <class name="flipkart.testcases.Shipping">
+        <methods>
+          <include name="startTest"/>
+          <include name="shipp"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.Shipping -->
+    </classes>
+  </test> <!-- Test_19(failed) -->
+  <test thread-count="5" name="Test_20(failed)">
+    <classes>
+      <class name="flipkart.testcases.TopOffers">
+        <methods>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+          <include name="topOffers"/>
+        </methods>
+      </class> <!-- flipkart.testcases.TopOffers -->
+    </classes>
+  </test> <!-- Test_20(failed) -->
+  <test thread-count="5" name="Test_21(failed)">
+    <classes>
+      <class name="flipkart.testcases.Travel">
+        <methods>
+          <include name="startTest"/>
+          <include name="allSetup"/>
+          <include name="status"/>
+          <include name="travel"/>
+          <include name="exit"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- flipkart.testcases.Travel -->
+    </classes>
+  </test> <!-- Test_21(failed) -->
+</suite> <!-- Failed suite [Suite] -->

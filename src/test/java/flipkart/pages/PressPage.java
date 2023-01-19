@@ -44,7 +44,6 @@ public class PressPage extends HomePage
 		
 		btn_Newsroom.click();
 		log.info("Newsroom option got clicked");
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_ViewAll)).click();
 		log.info("Click on viewAll button");
 	}

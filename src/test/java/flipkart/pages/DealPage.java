@@ -35,7 +35,6 @@ public class DealPage extends HomePage
 		} catch (Exception e) {		}
 		HomePage.btn_Deal.click();
 		btn_FirstProduct.click();
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_ClearAll)).click();
 		log.info("Click on clear all button");
 	}

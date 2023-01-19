@@ -33,7 +33,6 @@ public class TopOffersPage extends HomePage
 		} catch (Exception e) {		}
 		HomePage.btn_TopOffers.click();
 		log.info("Click on top offers");
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_AvailableProduct)).click();
 		log.info("Click on First available product button");
 	}

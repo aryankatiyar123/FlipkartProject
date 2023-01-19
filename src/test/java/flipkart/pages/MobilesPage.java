@@ -42,7 +42,6 @@ public class MobilesPage extends HomePage
 		btn_ShopNow.click();
 		log.info("Shop now button clicked");
 		btn_NewestFirst.click();
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_AddToCompare)).click();
 		log.info("Click on add to compare option");
 	}

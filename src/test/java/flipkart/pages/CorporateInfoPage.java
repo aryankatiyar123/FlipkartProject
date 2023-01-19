@@ -40,7 +40,6 @@ public class CorporateInfoPage extends HomePage
 		HomePage.btn_CorporateInfo.click();
 		log.info("Click on CorporateInfo button");
 		
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_AnnualReturn)).click();
 		log.info("Click on AnnualReturn pdf in website");
 	}

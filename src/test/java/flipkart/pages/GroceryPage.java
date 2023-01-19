@@ -26,9 +26,7 @@ public class GroceryPage extends HomePage
 	
 	@FindBy(xpath = "//body/div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/button[1]")
 	WebElement btn_Location;
-	
-	@FindBy(xpath = "//button[contains(text(),'Ok, got it')]")
-	WebElement btn_GotIt;
+
 	
 	public void grocery(String pinCode) throws Throwable
 	{
@@ -40,10 +38,7 @@ public class GroceryPage extends HomePage
 		HomePage.btn_Grocery.click();
 		txt_PINCode.sendKeys(pinCode);
 		log.info("Sends the pinCode in website");
-		btn_Location.click();
+		wait.until(ExpectedConditions.elementToBeClickable(btn_Location)).click();
 		log.info("Location option got clicked in website");
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
-		wait.until(ExpectedConditions.elementToBeClickable(btn_GotIt)).click();
-		log.info("Click on not now button");
 	}
 }

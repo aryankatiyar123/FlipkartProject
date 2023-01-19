@@ -3,16 +3,16 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="flipkart.testcases.Advertise">
+      <class name="flipkart.testcases.TopOffers">
         <methods>
-          <include name="advertise"/>
           <include name="startTest"/>
           <include name="allSetup"/>
           <include name="status"/>
           <include name="exit"/>
           <include name="openingURL"/>
+          <include name="topOffers"/>
         </methods>
-      </class> <!-- flipkart.testcases.Advertise -->
+      </class> <!-- flipkart.testcases.TopOffers -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

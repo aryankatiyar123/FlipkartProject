@@ -14,11 +14,11 @@
     </classes>
   </test>
 
-  <!--test name="Test_3">
+  <test name="Test_3">
     <classes>
       <class name="flipkart.testcases.BecomeSeller"/>
     </classes>
-  </test-->
+  </test>
 
   <test name="Test_4">
     <classes>
@@ -38,11 +38,11 @@
     </classes>
   </test>
 
-  <!--test name="Test_7">
+  <test name="Test_7">
     <classes>
       <class name="flipkart.testcases.CorporateInfo"/>
     </classes>
-  </test-->
+  </test>
 
   <test name="Test_8">
     <classes>
@@ -69,7 +69,7 @@
     </classes>
   </test>
 
-  <!--test name="Test_12">
+  <test name="Test_12">
     <classes>
       <class name="flipkart.testcases.FlipkartStories"/>
     </classes>
@@ -79,7 +79,7 @@
     <classes>
       <class name="flipkart.testcases.GiftCards"/>
     </classes>
-  </test-->
+  </test>
 
   <test name="Test_14">
     <classes>
@@ -87,11 +87,11 @@
     </classes>
   </test>
 
-  <!--test name="Test_15">
+  <test name="Test_15">
     <classes>
       <class name="flipkart.testcases.HelpCenter"/>
     </classes>
-  </test-->
+  </test>
 
   <test name="Test_16">
     <classes>
@@ -99,11 +99,11 @@
     </classes>
   </test>
 
-  <!--test name="Test_17">
+  <test name="Test_17">
     <classes>
       <class name="flipkart.testcases.Press"/>
     </classes>
-  </test-->
+  </test>
 
   <test name="Test_18">
     <classes>
@@ -123,10 +123,10 @@
     </classes>
   </test>
 
-  <!--test name="Test_21">
+  <test name="Test_21">
     <classes>
       <class name="flipkart.testcases.Travel"/>
     </classes>
-  </test-->
+  </test>
 
 </suite> <!-- Suite -->

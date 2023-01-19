@@ -45,7 +45,6 @@ public class HelpCenterPage extends HomePage
 		
 		btn_TrackOrder.click();
 		log.info("Track order button got clicked");
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_PostalAdd)).click();
 		log.info("Click on postal address button");
 		HomePage.btn_Close.click();

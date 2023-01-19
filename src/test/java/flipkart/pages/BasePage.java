@@ -70,14 +70,12 @@ public class BasePage
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		
 		extent=ExtentReportManager.getInstance("reports//Extent_flipkart.html");
-		
-		driver.get(PropertiesFile.getProperty("url"));
 	}
 	@BeforeTest
 	public void openingURL()
 	{
 		//*********navigating to application*********
-		//driver.get(PropertiesFile.getProperty("url"));
+		driver.get(PropertiesFile.getProperty("url"));
 	}
 	
 	@BeforeMethod
@@ -98,7 +96,7 @@ public class BasePage
 		if(result.getStatus()==ITestResult.SUCCESS)
 		{
 			test.log(LogStatus.PASS, result.getName()+"_Test case got passed");
-			log.info("Test "+result.getMethod().getMethodName()+" pass.");
+			log.info(result.getTestContext().getName()+" "+result.getMethod().getMethodName()+" pass.");
 		}
 		else if(result.getStatus()==ITestResult.FAILURE) 
 		{
@@ -106,14 +104,14 @@ public class BasePage
 			test.log(LogStatus.ERROR, result.getThrowable());
 			
 			test.log(LogStatus.FAIL,result.getTestContext().getName()+"_"+result.getName()+"_Test case got failed");
-			log.error("Test "+result.getMethod().getMethodName()+" failed.");
+			log.error(result.getTestContext().getName()+" "+result.getMethod().getMethodName()+" failed.");
 			test.log(LogStatus.FAIL,test.addScreenCapture(screenPath));
 			log.info("ScreenShot taken successfuly");
 		}
 		else
 		{
 			test.log(LogStatus.SKIP, result.getThrowable());
-			log.info("Test "+result.getMethod()+" skipped.");
+			log.info(result.getTestContext().getName()+" "+result.getMethod()+" skipped.");
 		}
 		extent.flush();
 		extent.endTest(test);

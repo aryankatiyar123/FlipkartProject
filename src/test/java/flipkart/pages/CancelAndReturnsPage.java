@@ -42,13 +42,12 @@ public class CancelAndReturnsPage extends HomePage
 	    {
 	    	wait.until(ExpectedConditions.visibilityOf(HomePage.btn_Close)).click();
 		} catch (Exception e) {		}
-		HomePage.btn_Travel.click();
+		HomePage.btn_CanReturns.click();
 		log.info("Click on CancelAndReturns button");
 		
 		btn_OtherIssues.click();
 		log.info("Other issues option got clicked");
 		btn_Order.click();
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_Login)).click();
 		log.info("Click on Login button");
 	}

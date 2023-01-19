@@ -48,7 +48,6 @@ public class AdvertisePage extends HomePage
 		
 		txt_SearchBrand.sendKeys(brand);
 		log.info("Brand name send to website");
-		//wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_FirstBrand)).click();
 		log.info("Click on firstBrand in website");
 		btn_AboutUs.click();

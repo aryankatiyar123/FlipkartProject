@@ -21,7 +21,7 @@ public class TravelPage extends HomePage
 	}
 	
 	//*****************Travel test functionality*****************
-	@FindBy(xpath = "//body/div[@id='container']/div[1]/div[2]/div[3]/div[1]/div[1]/a[1]/div[1]/img[2]")
+	@FindBy(xpath = "//body/div[@id='container']/div[1]/div[2]/div[5]/div[1]/div[1]/a[1]/div[1]/img[2]")
 	WebElement btn_TopDeal;
 	
 	@FindBy(xpath = "//body/div[@id='container']/div[1]/div[3]/div[3]/div[1]/div[1]/a[1]/div[1]/img[2]")
@@ -37,9 +37,9 @@ public class TravelPage extends HomePage
 		} catch (Exception e) {		}
 		HomePage.btn_Travel.click();
 		log.info("Click on travel");
-		btn_TopDeal.click();
+//		btn_TopDeal.click();
+		wait.until(ExpectedConditions.elementToBeClickable(btn_TopDeal)).click();
 		log.info("Top deal option clicked");
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_UseCode)).click();
 		log.info("Click on use code in website");
 	}

@@ -36,7 +36,6 @@ public class FashionPage extends HomePage
 		} catch (Exception e) {		}
 		HomePage.btn_Fashion.click();
 		btn_FirstProduct.click();
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.elementToBeClickable(btn_Price)).click();
 		log.info("Click on price button");
 	}

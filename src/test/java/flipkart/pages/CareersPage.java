@@ -27,9 +27,6 @@ public class CareersPage extends HomePage
 	@FindBy(xpath = "//body/div[1]/div[4]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/span[1]/button[1]/img[1]")
 	WebElement btn_Search;
 	
-	@FindBy(xpath = "//button[contains(text(),'Clear All')]")
-	WebElement btn_ClearAll;
-	
 	
 	public void careers(String searchJob) throws Throwable
 	{
@@ -48,11 +45,8 @@ public class CareersPage extends HomePage
 		
 		txt_ExploreJob.sendKeys(searchJob);
 		log.info("Serach text send to the website");
-		btn_Search.click();
+		wait.until(ExpectedConditions.elementToBeClickable(btn_Search)).click();
 		log.info("Search option got clicked");
-		wait=new WebDriverWait(driver, Duration.ofSeconds(20));
-		wait.until(ExpectedConditions.elementToBeClickable(btn_ClearAll)).click();
-		log.info("Click on clear all  button");
 	}
 }
 
